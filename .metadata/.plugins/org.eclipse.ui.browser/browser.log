@@ -1,0 +1,9 @@
+
+Dec 11, 2017 16:46:43.88 NEW SESSION
+Dec 11, 2017 16:46:43.88 1512991003884	addons.xpi	WARN	Exception running bootstrap method startup on websensehelper@mozilla.org: ReferenceError: PREF_DEFAULTS_RESET_TOPIC is not defined (resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Users/Supun_k/AppData/Roaming/Mozilla/Firefox/Profiles/s6g08y88.default/features/%7B1e572aad-ff79-47a7-a607-8205668b4091%7D/websensehelper@mozilla.org.xpi!/bootstrap.js:79:3) JS Stack trace: startup@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Users/Supun_k/AppData/Roaming/Mozilla/Firefox/Profiles/s6g08y88.default/features/%7B1e572aad-ff79-47a7-a607-8205668b4091%7D/websensehelper@bootstrap.js:79:3 < this.XPIProvider.callBootstrapMethod@XPIProvider.jsm:4675:9 < this.XPIProvider.startup@XPIProvider.jsm:2676:13 < callProvider@AddonManager.jsm:227:12 < _startProvider@AddonManager.jsm:755:5 < AddonManagerInternal.startup@AddonManager.jsm:938:9 < this.AddonManagerPrivate.startup@AddonManager.jsm:2773:5 < amManager.prototype.observe@addonManager.js:57:7
+Dec 11, 2017 16:46:43.91 [GFX1]: Potential driver version mismatch ignored due to missing DLLs 0.0.0.0 and 0.0.0.0
+Dec 11, 2017 16:56:55.58 1512991615588	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+Dec 11, 2017 16:56:55.85 1512991615852	addons.update-checker	WARN	Update manifest for e10srollout@mozilla.org did not contain an updates property
+Dec 11, 2017 16:56:56.66 1512991616663	addons.update-checker	WARN	Update manifest for websensehelper@mozilla.org did not contain an updates property
+Dec 11, 2017 16:56:56.68 1512991616680	addons.update-checker	WARN	Update manifest for firefox@getpocket.com did not contain an updates property
+Dec 11, 2017 16:56:56.69 1512991616690	addons.update-checker	WARN	Update manifest for loop@mozilla.org did not contain an updates property
